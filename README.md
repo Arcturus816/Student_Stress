@@ -9,4 +9,8 @@ In this short study, I use data from Kaggle.com to investigate sources of underg
 ## Contents 
 
 0. data 
-1. Jupyter Notebook 
+1. Jupyter Notebook
+
+## 0. Data
+
+Before beginning full EDA, I first checked for null value and duplicate rows. The first data set had a number of dumplicates which reduced the usable rows to 816 from 843.
